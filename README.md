@@ -6,7 +6,7 @@
 - follows the rules, but may have a specific set if needed
 - has a ***prize*** for the best solution
 ## Rules
-- Please fork this repository into your account and make it private so nobody can see your implementation prior to the deadline
+- Please ~~fork~~ **duplicate** this repository into your account and make it private so nobody can see your implementation prior to the deadline
 - Work within the CodeChallenge Visual Studio solution and the project which corresponds to monthly challenge (CodeChallengeJanuary, February..)
 - After you have polished the answer, give @zilvinelis access to your private repository. This must be done prior to the deadline.
 ## Evaluation
